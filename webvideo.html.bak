@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<HTML>
+ <HEAD>
+ <META charset="UTF-8">
+  <TITLE>Video</TITLE>
+	
+ </HEAD>
+
+ <BODY>
+	<video width="400" controls>
+		<source src="video/shihTzu.mp4" type>
+ </BODY>
+</HTML>
